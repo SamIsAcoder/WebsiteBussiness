@@ -17,3 +17,25 @@ footer{
     text-align: center;
     padding: 10px;
 }
+
+ul{
+    list-style-type: none;
+}
+fieldset {
+  background-color: #eeeeee;
+  border: 1px solid rgb(39, 37, 26);
+  width: 400px;
+}
+
+legend {
+  background-color: gray;
+  color: white;
+  padding: 3px 6px;
+  text-align: left;
+}
+
+input {
+  text-align: left;
+  margin: 2px;
+}
+
