@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: lightblue;
+    text-align: center;
+    padding: 20px;
+
+}
+main{
+    padding: 20px;
+}
+
+footer{
+    background-color: lightgrey;
+    text-align: center;
+    padding: 10px;
+}
